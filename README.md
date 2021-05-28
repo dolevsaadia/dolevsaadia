@@ -2,7 +2,7 @@
 
 📌 Scroll down to see my Pinned Repositories.
 
-📫 How to reach me: DorAzaria@gmail.com
+📫 How to reach me: dolevsaadia@gmail.com
  
 <a href="https://www.linkedin.com/in/Dor-Azaria/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
