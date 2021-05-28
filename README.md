@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-DeepLearning-informational?style=flat&logo=DeepLearning&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Deep-Learning-informational?style=flat&logo=Deep-Learning&logoColor=white&color=2bbc8a)
 
 
 ![](https://komarev.com/ghpvc/?username=dolevsaadia&style=flat-square)
